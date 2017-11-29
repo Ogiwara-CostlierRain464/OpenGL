@@ -1,0 +1,9 @@
+﻿  Building Custom Rule C:/Users/ogiwara/Documents/GitHub/OpenGL/ogl-master/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/ogiwara/Documents/GitHub/OpenGL/compiler/CMakeFiles/generate.stamp is up-to-date.
+  tutorial18_particles.cpp
+  shader.cpp
+  texture.cpp
+  controls.cpp
+C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\tutorial18_billboards_and_particles\tutorial18_particles.cpp(247): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  tutorial18_particles.vcxproj -> C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\Debug\tutorial18_particles.exe
+  tutorial18_particles.vcxproj -> C:/Users/ogiwara/Documents/GitHub/OpenGL/compiler/Debug/tutorial18_particles.pdb (Full PDB)

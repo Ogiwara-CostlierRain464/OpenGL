@@ -1,0 +1,6 @@
+[1123/190729:ERROR:main_delegate.cc(752)] Could not load cef_extensions.pak
+[1123/190729:ERROR:main_delegate.cc(752)] Could not load cef_extensions.pak
+[1123/190729:ERROR:gpu_child_thread.cc(390)] Exiting GPU process due to errors during initialization
+[1123/211132:ERROR:main_delegate.cc(752)] Could not load cef_extensions.pak
+[1123/211132:ERROR:main_delegate.cc(752)] Could not load cef_extensions.pak
+[1123/211133:ERROR:gpu_child_thread.cc(390)] Exiting GPU process due to errors during initialization

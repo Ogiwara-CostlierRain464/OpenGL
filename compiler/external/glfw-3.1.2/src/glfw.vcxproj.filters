@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\glfw-3.1.2\src\context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\glfw-3.1.2\src\init.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\glfw-3.1.2\src\input.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\glfw-3.1.2\src\monitor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\glfw-3.1.2\src\window.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\glfw-3.1.2\src\win32_init.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\glfw-3.1.2\src\win32_monitor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\glfw-3.1.2\src\win32_time.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\glfw-3.1.2\src\win32_tls.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\glfw-3.1.2\src\win32_window.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\glfw-3.1.2\src\winmm_joystick.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\glfw-3.1.2\src\wgl_context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\glfw-3.1.2\src\internal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\external\glfw-3.1.2\src\glfw_config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\glfw-3.1.2\include\GLFW\glfw3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\glfw-3.1.2\include\GLFW\glfw3native.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\glfw-3.1.2\src\win32_platform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\glfw-3.1.2\src\win32_tls.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\glfw-3.1.2\src\winmm_joystick.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\glfw-3.1.2\src\wgl_context.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\glfw-3.1.2\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BDCDCDB9-398C-31E2-B2C7-CC3CB54A7783}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{32C0256A-FBD0-3509-8FA3-BB59A3705B83}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

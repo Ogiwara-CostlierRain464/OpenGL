@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/ogiwara/Documents/GitHub/OpenGL/ogl-master/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/ogiwara/Documents/GitHub/OpenGL/compiler/CMakeFiles/generate.stamp is up-to-date.
+  tutorial03.cpp
+  shader.cpp
+  tutorial03_matrices.vcxproj -> C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\Debug\tutorial03_matrices.exe
+  tutorial03_matrices.vcxproj -> C:/Users/ogiwara/Documents/GitHub/OpenGL/compiler/Debug/tutorial03_matrices.pdb (Full PDB)

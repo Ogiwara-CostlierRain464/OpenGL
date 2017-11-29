@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/ogiwara/Documents/GitHub/OpenGL/ogl-master/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/ogiwara/Documents/GitHub/OpenGL/compiler/CMakeFiles/generate.stamp is up-to-date.
+  tutorial05.cpp
+  shader.cpp
+  texture.cpp
+  tutorial05_textured_cube.vcxproj -> C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\Debug\tutorial05_textured_cube.exe
+  tutorial05_textured_cube.vcxproj -> C:/Users/ogiwara/Documents/GitHub/OpenGL/compiler/Debug/tutorial05_textured_cube.pdb (Full PDB)

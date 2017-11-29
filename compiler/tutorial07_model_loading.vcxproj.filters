@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\tutorial07_model_loading\tutorial07.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\common\shader.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\common\controls.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\common\texture.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\common\objloader.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\common\shader.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\common\controls.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\common\texture.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\common\objloader.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\tutorial07_model_loading\TransformVertexShader.vertexshader">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\tutorial07_model_loading\TextureFragmentShader.fragmentshader">
+      <Filter>shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BDCDCDB9-398C-31E2-B2C7-CC3CB54A7783}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="common">
+      <UniqueIdentifier>{D1207BE2-3436-3979-90F0-110F26198294}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shaders">
+      <UniqueIdentifier>{B7DE0585-2ADB-32E2-B0D2-958FF4875521}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

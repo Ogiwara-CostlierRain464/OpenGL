@@ -1,0 +1,228 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/ogiwara/Documents/GitHub/OpenGL/compiler/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_2aed7.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine バージョン 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+2017/11/23 19:06:14 にビルドを開始しました。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (45,37)" にある BeforeTargets 属性に一覧表示されているターゲット "_ConvertPdbFiles" はプロジェクト内に存在しないため、無視されます。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (45,70)" にある AfterTargets 属性に一覧表示されているターゲット "_CollectPdbFiles" はプロジェクト内に存在しないため、無視されます。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (52,38)" にある BeforeTargets 属性に一覧表示されているターゲット "_CollectMdbFiles" はプロジェクト内に存在しないため、無視されます。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (52,71)" にある AfterTargets 属性に一覧表示されているターゲット "_CopyMdbFiles" はプロジェクト内に存在しないため、無視されます。
+ノード 1 上のプロジェクト "C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\cmTC_2aed7.vcxproj" (既定のターゲット)。
+PrepareForBuild:
+  ディレクトリ "cmTC_2aed7.dir\Debug\" を作成しています。
+  ディレクトリ "C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+  ディレクトリ "cmTC_2aed7.dir\Debug\cmTC_2aed7.tlog\" を作成しています。
+InitializeBuildStatus:
+  "AlwaysCreate" が指定されたため "cmTC_2aed7.dir\Debug\cmTC_2aed7.tlog\unsuccessfulbuild" を作成しています。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2aed7.dir\Debug\\" /Fd"cmTC_2aed7.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft(R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2aed7.dir\Debug\\" /Fd"cmTC_2aed7.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  
+  CheckIncludeFile.c
+C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: include ファイルを開けません。'pthread.h':No such file or directory [C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\cmTC_2aed7.vcxproj]
+プロジェクト "C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\cmTC_2aed7.vcxproj" (既定のターゲット) のビルドが終了しました -- 失敗。
+
+ビルドに失敗しました。
+
+"C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\cmTC_2aed7.vcxproj" (既定のターゲット) (1) ->
+(ClCompile ターゲット) -> 
+  C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: include ファイルを開けません。'pthread.h':No such file or directory [C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\cmTC_2aed7.vcxproj]
+
+    0 個の警告
+    1 エラー
+
+経過時間 00:00:01.24
+
+
+Determining size of off64_t failed with the following output:
+Change Dir: C:/Users/ogiwara/Documents/GitHub/OpenGL/compiler/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_f102f.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine バージョン 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+2017/11/23 19:06:22 にビルドを開始しました。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (45,37)" にある BeforeTargets 属性に一覧表示されているターゲット "_ConvertPdbFiles" はプロジェクト内に存在しないため、無視されます。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (45,70)" にある AfterTargets 属性に一覧表示されているターゲット "_CollectPdbFiles" はプロジェクト内に存在しないため、無視されます。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (52,38)" にある BeforeTargets 属性に一覧表示されているターゲット "_CollectMdbFiles" はプロジェクト内に存在しないため、無視されます。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (52,71)" にある AfterTargets 属性に一覧表示されているターゲット "_CopyMdbFiles" はプロジェクト内に存在しないため、無視されます。
+ノード 1 上のプロジェクト "C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\cmTC_f102f.vcxproj" (既定のターゲット)。
+PrepareForBuild:
+  ディレクトリ "cmTC_f102f.dir\Debug\" を作成しています。
+  ディレクトリ "C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+  ディレクトリ "cmTC_f102f.dir\Debug\cmTC_f102f.tlog\" を作成しています。
+InitializeBuildStatus:
+  "AlwaysCreate" が指定されたため "cmTC_f102f.dir\Debug\cmTC_f102f.tlog\unsuccessfulbuild" を作成しています。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _LARGEFILE64_SOURCE=1 /D HAVE_SYS_TYPES_H /D HAVE_STDINT_H /D HAVE_STDDEF_H /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f102f.dir\Debug\\" /Fd"cmTC_f102f.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CheckTypeSize\OFF64_T.c
+  Microsoft(R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _LARGEFILE64_SOURCE=1 /D HAVE_SYS_TYPES_H /D HAVE_STDINT_H /D HAVE_STDDEF_H /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f102f.dir\Debug\\" /Fd"cmTC_f102f.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CheckTypeSize\OFF64_T.c
+  
+  OFF64_T.c
+C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CheckTypeSize\OFF64_T.c(25): error C2065: 'off64_t': 定義されていない識別子です。 [C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\cmTC_f102f.vcxproj]
+C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CheckTypeSize\OFF64_T.c(26): error C2065: 'off64_t': 定義されていない識別子です。 [C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\cmTC_f102f.vcxproj]
+C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CheckTypeSize\OFF64_T.c(27): error C2065: 'off64_t': 定義されていない識別子です。 [C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\cmTC_f102f.vcxproj]
+C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CheckTypeSize\OFF64_T.c(28): error C2065: 'off64_t': 定義されていない識別子です。 [C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\cmTC_f102f.vcxproj]
+C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CheckTypeSize\OFF64_T.c(29): error C2065: 'off64_t': 定義されていない識別子です。 [C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\cmTC_f102f.vcxproj]
+プロジェクト "C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\cmTC_f102f.vcxproj" (既定のターゲット) のビルドが終了しました -- 失敗。
+
+ビルドに失敗しました。
+
+"C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\cmTC_f102f.vcxproj" (既定のターゲット) (1) ->
+(ClCompile ターゲット) -> 
+  C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CheckTypeSize\OFF64_T.c(25): error C2065: 'off64_t': 定義されていない識別子です。 [C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\cmTC_f102f.vcxproj]
+  C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CheckTypeSize\OFF64_T.c(26): error C2065: 'off64_t': 定義されていない識別子です。 [C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\cmTC_f102f.vcxproj]
+  C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CheckTypeSize\OFF64_T.c(27): error C2065: 'off64_t': 定義されていない識別子です。 [C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\cmTC_f102f.vcxproj]
+  C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CheckTypeSize\OFF64_T.c(28): error C2065: 'off64_t': 定義されていない識別子です。 [C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\cmTC_f102f.vcxproj]
+  C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CheckTypeSize\OFF64_T.c(29): error C2065: 'off64_t': 定義されていない識別子です。 [C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\cmTC_f102f.vcxproj]
+
+    0 個の警告
+    5 エラー
+
+経過時間 00:00:01.06
+
+C:/Users/ogiwara/Documents/GitHub/OpenGL/compiler/CMakeFiles/CheckTypeSize/OFF64_T.c:
+#include <sys/types.h>
+#include <stdint.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(off64_t))
+char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining if the function fseeko exists failed with the following output:
+Change Dir: C:/Users/ogiwara/Documents/GitHub/OpenGL/compiler/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_5e1e9.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine バージョン 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+2017/11/23 19:06:24 にビルドを開始しました。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (45,37)" にある BeforeTargets 属性に一覧表示されているターゲット "_ConvertPdbFiles" はプロジェクト内に存在しないため、無視されます。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (45,70)" にある AfterTargets 属性に一覧表示されているターゲット "_CollectPdbFiles" はプロジェクト内に存在しないため、無視されます。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (52,38)" にある BeforeTargets 属性に一覧表示されているターゲット "_CollectMdbFiles" はプロジェクト内に存在しないため、無視されます。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (52,71)" にある AfterTargets 属性に一覧表示されているターゲット "_CopyMdbFiles" はプロジェクト内に存在しないため、無視されます。
+ノード 1 上のプロジェクト "C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\cmTC_5e1e9.vcxproj" (既定のターゲット)。
+PrepareForBuild:
+  ディレクトリ "cmTC_5e1e9.dir\Debug\" を作成しています。
+  ディレクトリ "C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+  ディレクトリ "cmTC_5e1e9.dir\Debug\cmTC_5e1e9.tlog\" を作成しています。
+InitializeBuildStatus:
+  "AlwaysCreate" が指定されたため "cmTC_5e1e9.dir\Debug\cmTC_5e1e9.tlog\unsuccessfulbuild" を作成しています。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=fseeko /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5e1e9.dir\Debug\\" /Fd"cmTC_5e1e9.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.10\Modules\CheckFunctionExists.c"
+  Microsoft(R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=fseeko /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5e1e9.dir\Debug\\" /Fd"cmTC_5e1e9.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.10\Modules\CheckFunctionExists.c"
+  
+  CheckFunctionExists.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\Debug\cmTC_5e1e9.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ogiwara/Documents/GitHub/OpenGL/compiler/CMakeFiles/CMakeTmp/Debug/cmTC_5e1e9.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ogiwara/Documents/GitHub/OpenGL/compiler/CMakeFiles/CMakeTmp/Debug/cmTC_5e1e9.lib" /MACHINE:X64  /machine:x64 cmTC_5e1e9.dir\Debug\CheckFunctionExists.obj
+CheckFunctionExists.obj : error LNK2019: 未解決の外部シンボル fseeko が関数 main で参照されました。 [C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\cmTC_5e1e9.vcxproj]
+C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\Debug\cmTC_5e1e9.exe : fatal error LNK1120: 1 件の未解決の外部参照 [C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\cmTC_5e1e9.vcxproj]
+プロジェクト "C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\cmTC_5e1e9.vcxproj" (既定のターゲット) のビルドが終了しました -- 失敗。
+
+ビルドに失敗しました。
+
+"C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\cmTC_5e1e9.vcxproj" (既定のターゲット) (1) ->
+(Link ターゲット) -> 
+  CheckFunctionExists.obj : error LNK2019: 未解決の外部シンボル fseeko が関数 main で参照されました。 [C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\cmTC_5e1e9.vcxproj]
+  C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\Debug\cmTC_5e1e9.exe : fatal error LNK1120: 1 件の未解決の外部参照 [C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\cmTC_5e1e9.vcxproj]
+
+    0 個の警告
+    2 エラー
+
+経過時間 00:00:01.45
+
+
+Determining if the include file unistd.h exists failed with the following output:
+Change Dir: C:/Users/ogiwara/Documents/GitHub/OpenGL/compiler/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_5bead.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine バージョン 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+2017/11/23 19:06:26 にビルドを開始しました。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (45,37)" にある BeforeTargets 属性に一覧表示されているターゲット "_ConvertPdbFiles" はプロジェクト内に存在しないため、無視されます。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (45,70)" にある AfterTargets 属性に一覧表示されているターゲット "_CollectPdbFiles" はプロジェクト内に存在しないため、無視されます。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (52,38)" にある BeforeTargets 属性に一覧表示されているターゲット "_CollectMdbFiles" はプロジェクト内に存在しないため、無視されます。
+"C:\Program Files (x86)\MSBuild\14.0\Microsoft.Common.targets\ImportAfter\Xamarin.Common.targets (52,71)" にある AfterTargets 属性に一覧表示されているターゲット "_CopyMdbFiles" はプロジェクト内に存在しないため、無視されます。
+ノード 1 上のプロジェクト "C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\cmTC_5bead.vcxproj" (既定のターゲット)。
+PrepareForBuild:
+  ディレクトリ "cmTC_5bead.dir\Debug\" を作成しています。
+  ディレクトリ "C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\Debug\" を作成しています。
+  ディレクトリ "cmTC_5bead.dir\Debug\cmTC_5bead.tlog\" を作成しています。
+InitializeBuildStatus:
+  "AlwaysCreate" が指定されたため "cmTC_5bead.dir\Debug\cmTC_5bead.tlog\unsuccessfulbuild" を作成しています。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5bead.dir\Debug\\" /Fd"cmTC_5bead.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  Microsoft(R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5bead.dir\Debug\\" /Fd"cmTC_5bead.dir\Debug\vc140.pdb" /Gd /TC /errorReport:queue C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  
+  CheckIncludeFile.c
+C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: include ファイルを開けません。'unistd.h':No such file or directory [C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\cmTC_5bead.vcxproj]
+プロジェクト "C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\cmTC_5bead.vcxproj" (既定のターゲット) のビルドが終了しました -- 失敗。
+
+ビルドに失敗しました。
+
+"C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\cmTC_5bead.vcxproj" (既定のターゲット) (1) ->
+(ClCompile ターゲット) -> 
+  C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: include ファイルを開けません。'unistd.h':No such file or directory [C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\CMakeFiles\CMakeTmp\cmTC_5bead.vcxproj]
+
+    0 個の警告
+    1 エラー
+
+経過時間 00:00:01.14
+
+

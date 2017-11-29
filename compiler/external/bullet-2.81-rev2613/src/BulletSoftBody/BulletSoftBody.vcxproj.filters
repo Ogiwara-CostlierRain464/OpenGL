@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBody.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBodyConcaveCollisionAlgorithm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBodyHelpers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBodyRigidBodyCollisionConfiguration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftRigidCollisionAlgorithm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftRigidDynamicsWorld.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftSoftCollisionAlgorithm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btDefaultSoftBodySolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBody.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBodyData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBodyConcaveCollisionAlgorithm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBodyHelpers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBodyRigidBodyCollisionConfiguration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftRigidCollisionAlgorithm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftRigidDynamicsWorld.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftSoftCollisionAlgorithm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSparseSDF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBodySolvers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btDefaultSoftBodySolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBodySolverVertexBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\external\bullet-2.81-rev2613\src\BulletSoftBody\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BDCDCDB9-398C-31E2-B2C7-CC3CB54A7783}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{32C0256A-FBD0-3509-8FA3-BB59A3705B83}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

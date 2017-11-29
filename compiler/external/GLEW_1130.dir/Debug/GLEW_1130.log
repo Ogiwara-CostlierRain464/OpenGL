@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/ogiwara/Documents/GitHub/OpenGL/ogl-master/external/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/ogiwara/Documents/GitHub/OpenGL/compiler/external/CMakeFiles/generate.stamp is up-to-date.
+  glew.c
+  GLEW_1130.vcxproj -> C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\external\Debug\GLEW_1130.lib
