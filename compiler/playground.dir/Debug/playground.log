@@ -1,3 +1,4 @@
 ﻿  playground.cpp
+C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\playground\playground.cpp(176): warning C4267: '引数': 'size_t' から 'GLsizei' に変換しました。データが失われているかもしれません。
   playground.vcxproj -> C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\Debug\playground.exe
   playground.vcxproj -> C:/Users/ogiwara/Documents/GitHub/OpenGL/compiler/Debug/playground.pdb (Full PDB)

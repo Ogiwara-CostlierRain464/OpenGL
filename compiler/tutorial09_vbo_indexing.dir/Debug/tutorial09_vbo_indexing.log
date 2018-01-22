@@ -1,0 +1,11 @@
+﻿  Building Custom Rule C:/Users/ogiwara/Documents/GitHub/OpenGL/ogl-master/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/ogiwara/Documents/GitHub/OpenGL/compiler/CMakeFiles/generate.stamp is up-to-date.
+  tutorial09.cpp
+  shader.cpp
+  controls.cpp
+  texture.cpp
+  objloader.cpp
+  vboindexer.cpp
+C:\Users\ogiwara\Documents\GitHub\OpenGL\ogl-master\tutorial09_vbo_indexing\tutorial09.cpp(225): warning C4267: '引数': 'size_t' から 'GLsizei' に変換しました。データが失われているかもしれません。
+  tutorial09_vbo_indexing.vcxproj -> C:\Users\ogiwara\Documents\GitHub\OpenGL\compiler\Debug\tutorial09_vbo_indexing.exe
+  tutorial09_vbo_indexing.vcxproj -> C:/Users/ogiwara/Documents/GitHub/OpenGL/compiler/Debug/tutorial09_vbo_indexing.pdb (Full PDB)
